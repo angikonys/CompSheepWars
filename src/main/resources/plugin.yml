@@ -1,0 +1,7 @@
+name: CompetitiveSheepwars
+version: '${project.version}'
+main: fr.angiko.competitivesheepwars.CompetitiveSheepwars
+api-version: 1.19
+prefix: CompSW
+authors: [ angiko ]
+description: Sheepwars plugin inspired by the one from Epicube
